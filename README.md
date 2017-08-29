@@ -5,11 +5,11 @@ repo z propozycją kodu forum<br>
      core.php<br>
      db.php<br>
    /includes   &nbsp; &nbsp; &nbsp; &nbsp;//folder z css wszystkich podstron forum<br>
-     pw/<br>
-     questions/<br>
-     answers/<br>
-     comments/<br>
-     profiles/<br>
+     pw/<br> &nbsp; &nbsp; &nbsp; &nbsp;  /pliki css podstrony pw
+     questions/<br>   &nbsp; &nbsp; &nbsp; &nbsp;//pliki css
+     answers/<br> &nbsp; &nbsp; &nbsp; &nbsp;/pliki css
+     comments/<br> &nbsp; &nbsp; &nbsp; &nbsp;/pliki css
+     profiles/<br> &nbsp; &nbsp; &nbsp; &nbsp;/pliki css
      question.php<br>
      answer.php<br>
      comment.php         &nbsp; &nbsp; &nbsp; &nbsp; //pliki generujące podstrony forum<br>
